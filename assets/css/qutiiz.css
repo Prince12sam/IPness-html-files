@@ -2563,7 +2563,7 @@ ul {
   right: 280px;
   content: "";
   bottom: -120px;
-  background-color: #f6f4f9;
+  /* background-color: #f6f4f9; */
   border-bottom-right-radius: var(--qutiiz-bdr-radius);
   z-index: -1;
 }
@@ -2771,7 +2771,7 @@ ul {
 
 .get-to-know__person-img {
   position: relative;
-  /* box-shadow: 0px 10px 30px 0px rgb(0, 0, 0, 0.1); */
+  box-shadow: 0px 10px 30px 0px rgb(0, 0, 0, 0.1);
   border: 5px solid #fff;
   border-radius: 50%;
   display: inline-block;
@@ -2780,7 +2780,7 @@ ul {
 
 .get-to-know__person-img img {
   border-radius: 50%;
-  mix-blend-mode: luminosity;
+  /* mix-blend-mode: luminosity; */
 }
 
 .get-to-know__person-content {
@@ -2833,7 +2833,7 @@ ul {
 .brand-one .swiper-slide img {
   -webkit-transition: 500ms;
   transition: 500ms;
-  opacity: 0.3;
+  /* opacity: 0.3; */
   max-width: 100%;
 }
 
@@ -2953,7 +2953,7 @@ ul {
 
 .project-one__img img {
   width: 100%;
-  mix-blend-mode: luminosity;
+  /* mix-blend-mode: luminosity; */
   transition: transform 500ms ease, mix-blend-mode 500ms ease;
   border-radius: var(--qutiiz-bdr-radisu);
 }
@@ -3209,7 +3209,7 @@ ul {
 .why-choose-one__img {
   position: relative;
   display: block;
-  background-color: var(--qutiiz-black);
+  /* background-color: var(--qutiiz-black); */
   border-top-left-radius: 8px;
   border-bottom-left-radius: 8px;
   overflow: hidden;
@@ -3368,13 +3368,13 @@ ul {
   overflow: hidden;
   border-top-right-radius: 8px;
   border-top-left-radius: 8px;
-  background-color: var(--qutiiz-black);
+  /* background-color: var(--qutiiz-black); */
   background-blend-mode: luminosity;
 }
 
 .team-one__img img {
   width: 100%;
-  mix-blend-mode: luminosity;
+  /* mix-blend-mode: luminosity; */
   transform: scale(1);
   transition: all 500ms ease;
 }
@@ -3715,7 +3715,7 @@ ul {
   width: 65px;
   background: var(--qutiiz-white);
   border-radius: 50%;
-  color: var(--qutiiz-black);
+  /* color: var(--qutiiz-black); */
   font-size: 20px;
   text-align: center;
   border: 0;
@@ -3784,7 +3784,7 @@ ul {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: var(--qutiiz-black);
+  /* background-color: var(--qutiiz-black); */
   z-index: 1;
 }
 
@@ -3799,7 +3799,7 @@ ul {
   background-position: center;
   z-index: 1;
   mix-blend-mode: luminosity;
-  opacity: 0.3;
+  opacity: 1;
 }
 
 .qutiiz-ready__inner {
@@ -4159,7 +4159,7 @@ ul {
 
 .tabs-content__experience-img img {
   width: auto;
-  mix-blend-mode: luminosity;
+  /* mix-blend-mode: luminosity; */
   border-radius: var(--qutiiz-bdr-radius);
 }
 
