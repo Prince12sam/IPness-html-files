@@ -2583,7 +2583,7 @@ ul {
   width: 100%;
   border-top-right-radius: 8px;
   border-bottom-right-radius: 8px;
-  mix-blend-mode: luminosity;
+  /* mix-blend-mode: luminosity; */
 }
 
 .get-to-know__video-link {
@@ -2780,7 +2780,7 @@ ul {
 
 .get-to-know__person-img img {
   border-radius: 50%;
-  mix-blend-mode: luminosity;
+  /* mix-blend-mode: luminosity; */
 }
 
 .get-to-know__person-content {
@@ -2953,7 +2953,7 @@ ul {
 
 .project-one__img img {
   width: 100%;
-  mix-blend-mode: luminosity;
+  /* mix-blend-mode: luminosity; */
   transition: transform 500ms ease, mix-blend-mode 500ms ease;
   border-radius: var(--qutiiz-bdr-radisu);
 }
