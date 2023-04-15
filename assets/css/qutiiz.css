@@ -3231,7 +3231,7 @@ ul {
   width: 100%;
   border-top-left-radius: 8px;
   border-bottom-left-radius: 8px;
-  mix-blend-mode: luminosity;
+  /* mix-blend-mode: luminosity; */
 }
 
 .why-choose-one__right {
@@ -3278,7 +3278,6 @@ ul {
 }
 
 .why-choose-one__bottom-img img {
-  mix-blend-mode: luminosity;
   border-radius: var(--qutiiz-bdr-radius);
 }
 
@@ -3785,7 +3784,7 @@ ul {
   background-size: cover;
   background-position: center;
   z-index: 1;
-  mix-blend-mode: luminosity;
+  /* mix-blend-mode: luminosity; */
   opacity: 1;
 }
 
