@@ -1501,7 +1501,7 @@ ul {
   background-position: center;
   transform: scale(1);
   opacity: 0;
-  background-blend-mode: luminosity;
+  background-blend-mode: "";
   transition: transform 7000ms ease, opacity 0ms ease-in;
   z-index: 1;
 }
@@ -2579,7 +2579,7 @@ ul {
   width: 100%;
   border-top-right-radius: 8px;
   border-bottom-right-radius: 8px;
-  mix-blend-mode: luminosity;
+  mix-blend-mode: "";
 }
 
 .get-to-know__video-link {
@@ -3231,7 +3231,7 @@ ul {
   width: 100%;
   border-top-left-radius: 8px;
   border-bottom-left-radius: 8px;
-  /* mix-blend-mode: luminosity; */
+  /* mix-blend-mode: ""; */
 }
 
 .why-choose-one__right {
@@ -3358,7 +3358,7 @@ ul {
   overflow: hidden;
   border-top-right-radius: 8px;
   border-top-left-radius: 8px;
-  background-blend-mode: luminosity;
+  background-blend-mode: "";
 }
 
 .team-one__img img {
@@ -3625,7 +3625,7 @@ ul {
 
 .testimonial-one__client-img>img {
   border-radius: 50%;
-  mix-blend-mode: luminosity;
+  mix-blend-mode: "";
   width: auto !important;
 }
 
@@ -3784,7 +3784,7 @@ ul {
   background-size: cover;
   background-position: center;
   z-index: 1;
-  /* mix-blend-mode: luminosity; */
+  /* mix-blend-mode: ""; */
   opacity: 1;
 }
 
@@ -4225,7 +4225,7 @@ ul {
 
 .blog-one__img>img {
   width: 100%;
-  mix-blend-mode: luminosity;
+  /* mix-blend-mode: ""; */
   border-top-left-radius: 8px;
   border-top-right-radius: 8px;
 }
@@ -4382,7 +4382,7 @@ ul {
 .blog-one__person-img>img {
   width: auto;
   border-radius: 50%;
-  mix-blend-mode: luminosity;
+  mix-blend-mode: "";
 }
 
 .blog-one__person-content {
@@ -5095,7 +5095,7 @@ ul {
 
 .get-to-know-two__img>img {
   width: 100%;
-  mix-blend-mode: luminosity;
+  mix-blend-mode: "";
   border-radius: var(--qutiiz-bdr-radius);
 }
 
@@ -5110,7 +5110,7 @@ ul {
 
 .get-to-know-two__small-img>img {
   border-radius: var(--qutiiz-bdr-radius);
-  mix-blend-mode: luminosity;
+  mix-blend-mode: "";
 }
 
 .get-to-know-two__right {
@@ -5244,7 +5244,7 @@ ul {
   background-size: cover;
   background-position: center;
   z-index: 1;
-  mix-blend-mode: luminosity;
+  /* mix-blend-mode: ""; */
   opacity: 0.3;
 }
 
@@ -5578,7 +5578,7 @@ ul {
 
 .project-two__img img {
   width: 100%;
-  mix-blend-mode: luminosity;
+  mix-blend-mode: "";
   border-radius: var(--qutiiz-bdr-radius);
   transition: transform 500ms ease, mix-blend-mode 500ms ease;
 }
@@ -5908,7 +5908,7 @@ ul {
 }
 
 .we-care__img img {
-  mix-blend-mode: luminosity;
+  mix-blend-mode: "";
   border-radius: var(--qutiiz-bdr-radius);
 }
 
@@ -5987,7 +5987,7 @@ ul {
 
 .contact-one__img-1 img {
   border-radius: var(--qutiiz-bdr-radius);
-  mix-blend-mode: luminosity;
+  mix-blend-mode: "";
 }
 
 .contact-one__text {
@@ -6117,7 +6117,7 @@ ul {
   background-size: cover;
   background-position: center;
   /* background-color: var(--qutiiz-black); */
-  background-blend-mode: luminosity;
+  background-blend-mode: "";
   opacity: 0.4;
   z-index: -1;
 }
@@ -6296,7 +6296,7 @@ ul {
 
 .blog-sidebar__content-img img {
   width: 100%;
-  mix-blend-mode: luminosity;
+  mix-blend-mode: "";
   border-radius: var(--qutiiz-bdr-radius);
 }
 
@@ -6579,7 +6579,7 @@ ul {
 
 .sidebar__post-image>img {
   width: 70px;
-  mix-blend-mode: luminosity;
+  mix-blend-mode: "";
   border-radius: var(--qutiiz-bdr-radius);
 }
 
@@ -6862,7 +6862,7 @@ ul {
 
 .blog-details__img img {
   width: 100%;
-  mix-blend-mode: luminosity;
+  mix-blend-mode: "";
   border-radius: var(--qutiiz-bdr-radius);
 }
 
@@ -7122,7 +7122,7 @@ ul {
 
 .comment-one__image img {
   border-radius: 50%;
-  mix-blend-mode: luminosity;
+  mix-blend-mode: "";
 }
 
 .comment-form .comment-form__title {
@@ -7203,7 +7203,7 @@ ul {
 
 .project-details__img img {
   width: 100%;
-  mix-blend-mode: luminosity;
+  mix-blend-mode: "";
   border-radius: var(--qutiiz-bdr-radius);
 }
 
@@ -7646,7 +7646,7 @@ ul {
 
 .service-details__img img {
   width: 100%;
-  mix-blend-mode: luminosity;
+  /* mix-blend-mode: ""; */
   border-radius: var(--qutiiz-bdr-radius);
 }
 
@@ -7812,7 +7812,7 @@ ul {
 
 .service-details__benefits-img img {
   width: 100%;
-  mix-blend-mode: luminosity;
+  mix-blend-mode: "";
   border-radius: var(--qutiiz-bdr-radius);
 }
 
@@ -7984,7 +7984,7 @@ ul {
 
 .about-page__img img {
   width: 100%;
-  mix-blend-mode: luminosity;
+  /* mix-blend-mode: ""; */
   border-radius: var(--qutiiz-bdr-radius);
 }
 
@@ -8174,7 +8174,7 @@ ul {
 .brand-three .swiper-slide img {
   -webkit-transition: 500ms;
   transition: 500ms;
-  opacity: 0.3;
+  /* opacity: 0.3; */
   max-width: 100%;
 }
 
@@ -8684,7 +8684,7 @@ ul {
 
 .welcome-one__img-inner img {
   width: 100%;
-  mix-blend-mode: luminosity;
+  /* mix-blend-mode: ""; */
   transition: all 500ms linear;
   transition-delay: 0.2s;
 }
@@ -8877,7 +8877,7 @@ ul {
 
 .services-three__single-img-inner img {
   width: 100%;
-  mix-blend-mode: luminosity;
+  /* mix-blend-mode: ""; */
   transition-delay: .1s;
   transition-timing-function: ease-in-out;
   transition-duration: .7s;
@@ -8969,7 +8969,7 @@ ul {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  background-blend-mode: luminosity;
+  background-blend-mode: "";
   border-radius: var(--qutiiz-bdr-radius);
   background: var(--qutiiz-black);
   overflow: hidden;
@@ -9219,7 +9219,7 @@ ul {
 
 .why-choose-three__tab-inner-bottom-img img {
   width: 100%;
-  mix-blend-mode: luminosity;
+  mix-blend-mode: "";
 }
 
 .why-choose-three__tab-inner-bottom-text {
@@ -9343,7 +9343,7 @@ ul {
   border-top-right-radius: var(--qutiiz-bdr-radius);
   border-bottom-right-radius: var(--qutiiz-bdr-radius);
   background: var(--qutiiz-black);
-  background-blend-mode: luminosity;
+  background-blend-mode: "";
   background-position: top left;
   background-repeat: no-repeat;
   background-size: cover;
@@ -9919,7 +9919,7 @@ ul {
 
 .team-details__top-img img {
   width: 100%;
-  mix-blend-mode: luminosity;
+  /* mix-blend-mode: ""; */
   transition: all 500ms linear;
   transition-delay: 0.2s;
 }
@@ -10094,7 +10094,7 @@ ul {
 
 .team-details__certificate-single-img img {
   width: 100%;
-  mix-blend-mode: luminosity;
+  mix-blend-mode: "";
 }
 
 
@@ -10345,7 +10345,7 @@ ul {
 
 .business-growth-one__single-img img {
   width: 100%;
-  mix-blend-mode: luminosity;
+  mix-blend-mode: "";
   transition: .5s ease;
   transform: scale(1.05);
 }
@@ -11134,7 +11134,7 @@ ul {
 
 .comments-area .comment-box .author-thumb img {
   width: 100%;
-  mix-blend-mode: luminosity;
+  mix-blend-mode: "";
 }
 
 .review-one__content {
