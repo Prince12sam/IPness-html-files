@@ -10,3 +10,9 @@
     s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
     var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
 })();
+
+let mobile_nav=document.querySelector('.mobile-nav__top')
+mobile_nav.style.display='none'
+
+let footer_nav=document.querySelector('.site-footer__top-right-social')
+footer_nav.style.display='none'
