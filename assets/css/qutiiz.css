@@ -2582,26 +2582,7 @@ ul {
   mix-blend-mode: "";
 }
 
-.get-to-know__video-link {
-  position: absolute;
-  bottom: 0;
-  right: 280px;
-}
 
-.get-to-know__video-icon {
-  height: 136px;
-  width: 158px;
-  background-color: var(--qutiiz-base);
-  font-size: 25px;
-  color: var(--qutiiz-white);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-top-left-radius: 8px;
-  border-top-right-radius: 8px;
-  -webkit-transition: all 500ms ease;
-  transition: all 500ms ease;
-}
 
 .get-to-know__video-icon:hover {
   background-color: var(--qutiiz-black);
@@ -8361,7 +8342,7 @@ ul {
 /*--------------------------------------------------------------
 ## Services Page Cta One
 --------------------------------------------------------------*/
-.services-page-cta-one {
+.services-page-one {
   padding-top: 120px;
 }
 
@@ -9698,6 +9679,7 @@ ul {
 =============================================
 ***/
 .cta-one--two {
+  
   position: relative;
   display: block;
   background: var(--qutiiz-base);
@@ -11821,4 +11803,15 @@ body.boxed-wrapper {
   background-color: #fff;
   -webkit-box-shadow: 0px 0px 100px 0px rgba(0, 0, 0, 0.08);
   box-shadow: 0px 0px 100px 0px rgba(0, 0, 0, 0.08);
+}
+
+/*-------------------------------------------------------------------
+# Coming soon style
+--------------------------------------------------------------------*/
+
+.text-coming-soon-content{
+  font-size: 80px;
+  text-align: center;
+  letter-spacing: 1.5px;
+  color: #541daf;
 }
